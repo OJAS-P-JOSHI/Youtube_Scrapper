@@ -1,0 +1,10 @@
+com\example\yt_scrapper\config\MongoConfig.class
+com\example\yt_scrapper\controller\YtController.class
+com\example\yt_scrapper\services\AuthService.class
+com\example\yt_scrapper\repository\UserRepository.class
+com\example\yt_scrapper\exceptions\GlobalExceptionHandler.class
+com\example\yt_scrapper\config\YtConfig.class
+com\example\yt_scrapper\controller\AuthController.class
+com\example\yt_scrapper\model\User.class
+com\example\yt_scrapper\YtScrapperApplication.class
+com\example\yt_scrapper\services\YtService.class
